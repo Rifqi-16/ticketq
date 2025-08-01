@@ -192,8 +192,7 @@ This Next.js application can be deployed on various platforms:
 
 - **Vercel** (Recommended): `vercel --prod`
 - **Netlify**: Connect your Git repository
-- **Railway**: Deploy with Git integration
-- **Docker**: Use the included Dockerfile
+
 
 ## 📄 License
 
@@ -205,5 +204,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-**Built with ❤️ using Next.js, TypeScript, and Tailwind CSS**  
+**Built with Next.js, TypeScript, and Tailwind CSS**  
 **Designed by Rifqi-16 with cyberpunk aesthetics**
